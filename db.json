@@ -1,0 +1,37 @@
+{
+    "posts": [
+        {
+            "title": "hello",
+            "id": 1
+        },
+        {
+            "title": "second post",
+            "id": 2
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    "users": [
+        {
+            "firstName": "Rafal",
+            "subjectId": 1,
+            "id": 1
+        },
+        {
+            "firstName": "Tomek",
+            "subjectId": 2,
+            "id": 2
+        }
+    ],
+    "subjects": [
+        {
+            "subjectName": "technology",
+            "id": 1
+        },
+        {
+            "subjectName": "engineering",
+            "id": 2
+        }
+    ]
+}
